@@ -13,23 +13,13 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-          qui fugit numquam! Cum vitae temporibus molestiae dicta illum
-          laboriosam similique at mollitia nihil iusto repellat numquam eos illo
-          perspiciatis a unde minima commodi id cupiditate laborum iste, beatae
-          maiores. Voluptatum quisquam dignissimos tempore asperiores sit
-          ratione officiis officia alias vitae.
+        I am Chinmaya Acharya, a tech enthusiast currently pursuing my Bachelor of Technology in Computer Science from VIT-AP University. Driven by a passion for technology and web development, I have immersed myself in the ever-evolving world of software development, honing my skills through hands-on projects and participation in prestigious programs like Google Cloud Arcade.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-          qui fugit numquam! Cum vitae temporibus molestiae dicta illum
-          laboriosam similique at mollitia nihil iusto repellat numquam eos illo
-          perspiciatis a unde minima commodi id cupiditate laborum iste, beatae
-          maiores. Voluptatum quisquam dignissimos tempore asperiores sit
-          ratione officiis officia alias vitae.
+        My journey in web development has led me to create projects using React JS and Node JS, allowing me to develop a strong foundation in building dynamic and user-friendly web applications. Beyond technical expertise, I am a dedicated team player and leader. I have actively engaged in extracurricular activities throughout my academic journey, serving as the Vice President for Audit in Be a Nerd Club and as an Events Chair in the Microsoft Student Chapter. These experiences have nurtured my leadership skills, teamwork abilities, and event management expertise.
         </p>
       </div>
     </div>
