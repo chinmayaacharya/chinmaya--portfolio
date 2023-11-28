@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-        I am Chinmaya Acharya, a tech enthusiast currently pursuing my Bachelor of Technology in Computer Science from VIT-AP University. Driven by a passion for technology and web development, I have immersed myself in the ever-evolving world of software development, honing my skills through hands-on projects and participation in prestigious programs like Google Cloud Arcade.
+        Hey there! I am Chinmaya Acharya, a tech enthusiast currently pursuing my Bachelor of Technology in Computer Science from VIT-AP University. Driven by a passion for technology and web development, I have immersed myself in the ever-evolving world of software development, honing my skills through hands-on projects and participation in prestigious programs like Google Cloud Arcade.
         </p>
 
         <br />
