@@ -8,7 +8,7 @@ const Portfolio = () => {
     const portfolios = [
         {
           id: 1,
-          child: 'E-Food Delivery website',
+          child: 'Online Food Ordering website',
           src: mernapp,
           href:"https://github.com/chinmayaacharya/E-Food-Delivery-Website"
         },
